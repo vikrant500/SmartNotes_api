@@ -1,10 +1,10 @@
-# Smart Notes Backend
-
-This repository contains the backend API for the Smart Notes application, a project inspired by the AI-powered note-taking features introduced by Samsung and Apple. The frontend can be found at [SmartNotes_front-end](https://github.com/vikrant500/SmartNotes_front-end).
-
-## About the Project
+# About the Project
 
 Smart Notes was born out of necessity when Samsung and Apple released AI-powered updates to their native note-taking applications, which weren't supported on the Samsung Tab S6 Lite. Instead of missing out on these innovative features, I decided to build a complete solution from scratch. This project demonstrates that cutting-edge AI note-taking capabilities can be implemented on any device through a web application.
+
+## Smart Notes Backend
+
+This repository contains the backend API for the Smart Notes application, a project inspired by the AI-powered note-taking features introduced by Samsung and Apple. The frontend can be found at [SmartNotes_front-end](https://github.com/vikrant500/SmartNotes_front-end).
 
 ## Local Setup
 
