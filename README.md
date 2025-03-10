@@ -17,8 +17,15 @@ This repository contains the backend API for the Smart Notes application, a proj
 
 1. Clone both repositories in the same parent directory:
    ```bash
-   git clone [https://github.com/vikrant500/SmartNotes_api.git]
    git clone [https://github.com/vikrant500/SmartNotes_front-end.git]
+   git clone [https://github.com/vikrant500/SmartNotes_api.git]
+   ```
+   
+   Your directory structure should look like this:
+   ```
+   parent-directory/
+   ├── SmartNotes_frontend/
+   └── SmartNotes_backend/
    ```
 
 2. Navigate to the API directory:
